@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: Kassie Group # the website title (if blank, full name will be used instead)
-first_name: Kassie
-middle_name:
-last_name:
+first_name: Jie
+middle_name: (Kassie)
+last_name: Li
 contact_note: >
-  Feel free to reach out via email for research inquiries and collaboration opportunities.
+  The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Official website of the Kassie Group.
+  Research website of Jie (Kassie) Li, Assistant Professor at the Lazaridis School of Business and Economics, Wilfrid Laurier University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

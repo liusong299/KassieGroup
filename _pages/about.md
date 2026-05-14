@@ -42,4 +42,4 @@ I conduct research using a range of designs and methods, including lab and onlin
 
 ## Participate in Research
 
-If you are interested in taking part in our studies, please visit the [Participate](/participate/) page.
+If you are interested in taking part in our studies, please visit the [Participate]({{ '/participate/' | relative_url }}) page.

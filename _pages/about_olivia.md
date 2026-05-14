@@ -1,0 +1,5 @@
+**Jing (Olivia) Xu** — PhD student in Management at the Lazaridis School of Business and Economics, Wilfrid Laurier University. She earned her MSc in Management (OB/HRM) from Wilfrid Laurier University, and both her Master's and Undergraduate degrees in Management from Nanjing University.
+
+Her research has two active streams focusing on **creativity / innovation** and **team dynamics** respectively. In her work on creativity and innovation in organizations, she investigates (1) the antecedents of creativity within team co-creation contexts and (2) the factors that promote or impede different stages of the innovation process, such as idea evaluation and promotion. In her work on team dynamics, she examines the underlying mechanisms through which conflict escalates over the course of team projects.
+
+She conducts research based on various longitudinal research designs and methodologies, including cross-lagged panel models (CLPM), latent growth modeling (LGM), and latent change score (LCS) modeling.

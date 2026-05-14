@@ -9,12 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/KassieGroup/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
+  },{id: "nav-participate",
+          title: "participate",
+          description: "Participate in our research on creativity, innovation and team dynamics.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/KassieGroup/blog/";
+            window.location.href = "/KassieGroup/participate/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "Members of the Kassie Group.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/KassieGroup/people/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -23,56 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/KassieGroup/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/KassieGroup/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/KassieGroup/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum vitae of Jie (Kassie) Li.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/KassieGroup/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/KassieGroup/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/KassieGroup/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/KassieGroup/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/KassieGroup/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -489,21 +454,14 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/KassieGroup/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/KassieGroup/assets/pdf/kassie_li_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%6A%69%65%6C%69@%77%6C%75.%63%61", "_blank");
         },
       },{
         id: 'social-rss',
@@ -513,18 +471,11 @@ ninja.data = [{
           window.open("/KassieGroup/feed.xml", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/jie-li/index.html", "_blank");
         },
       },{
       id: 'light-theme',

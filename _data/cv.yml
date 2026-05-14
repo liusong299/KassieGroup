@@ -1,47 +1,87 @@
 cv:
   name: Jie (Kassie) Li
-  label: PhD Student in Management
+  label: Assistant Professor of Management
   email: jieli@wlu.ca
   location: Waterloo, ON, Canada
   image: ""
   summary: >
-    PhD student at the Lazaridis School of Business and Economics, Wilfrid
-    Laurier University. Research focuses on creativity and innovation in
-    organizations and on team dynamics, using longitudinal designs and
-    methodologies including cross-lagged panel models (CLPM), latent growth
-    modeling (LGM), and latent change score (LCS) modeling.
+    Assistant Professor at the Lazaridis School of Business and Economics,
+    Wilfrid Laurier University. Research interests include innovation,
+    creativity and entrepreneurship; organizational deviance; and research
+    methodology, using designs ranging from lab and online experiments to
+    longitudinal surveys, social relations modeling, and machine learning.
 
   sections:
     Education:
-      - institution: Wilfrid Laurier University
-        location: Waterloo, ON, Canada
-        url: https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/index.html
+      - institution: The Hong Kong University of Science and Technology (HKUST)
+        location: Hong Kong SAR
+        url: https://hkust.edu.hk/
         area: Management
         studyType: PhD
+
+      - institution: Nanjing University
+        location: Nanjing, China
+        url: https://www.nju.edu.cn/
+        area: Management
+        studyType: MPhil
+
+    Experience:
+      - company: Wilfrid Laurier University, Lazaridis School of Business and Economics
+        position: Assistant Professor
+        location: Waterloo, ON, Canada
         start_date: ""
         end_date: "present"
 
-      - institution: Wilfrid Laurier University
-        location: Waterloo, ON, Canada
-        area: Management (OB / HRM)
-        studyType: MSc
-
-      - institution: Nanjing University
-        location: Nanjing, China
-        url: https://www.nju.edu.cn/
-        area: Management
-        studyType: Master
-
-      - institution: Nanjing University
-        location: Nanjing, China
-        url: https://www.nju.edu.cn/
-        area: Management
-        studyType: Bachelor
-
     Academic Interests:
-      - name: Creativity and innovation
-        keywords: "antecedents of creativity in team co-creation, idea evaluation, idea promotion, innovation process"
-      - name: Team dynamics
-        keywords: "conflict escalation, longitudinal team processes"
-      - name: Methodology
-        keywords: "longitudinal designs, cross-lagged panel models (CLPM), latent growth modeling (LGM), latent change score (LCS)"
+      - name: Innovation, creativity and entrepreneurship
+        keywords: "process perspective on the innovation process, idea generation / evaluation / promotion"
+      - name: Organizational deviance
+        keywords: "workplace gossip, social undermining, antecedents and outcomes of deviant behaviors"
+      - name: Research methodology
+        keywords: "lab / online experiments, longitudinal surveys (CLPM, LGM, LCS), social relations modeling, machine learning"
+
+    Publications:
+      - title: "The paradoxical relationship between sense of power and creativity: Countervailing pathways and a boundary condition"
+        authors:
+          - "Magni, F."
+          - "Gong, Y."
+          - "Li, K. J."
+          - "Zhou, M."
+          - "Pan, J."
+        publisher: Personnel Psychology
+        releaseDate: 2024
+        url: https://doi.org/10.1111/peps.12557
+
+      - title: "Are gossipers looked down upon? A norm-based perspective on the relation between gossip and gossiper status"
+        authors:
+          - "Lian, H."
+          - "Li, K. J."
+          - "Pan, J."
+          - "Zhao, Q."
+          - "Du, C."
+        publisher: "Journal of Applied Psychology, 108(6), 905-933"
+        releaseDate: 2023
+        url: http://dx.doi.org/10.1037/apl0001056
+
+      - title: "Disaster or opportunity? How COVID-19-associated changes in environmental uncertainty and job insecurity relate to organizational identification and performance"
+        authors:
+          - "Lian, H."
+          - "Li, K. J."
+          - "Du, C."
+          - "Wu, W."
+          - "Xia, Y."
+          - "Lee, C."
+        publisher: "Journal of Applied Psychology, 107(5), 693-706"
+        releaseDate: 2022
+        url: https://doi.org/10.1037/apl0001011
+
+      - title: "What if my coworker builds a better relationship with my leader? An emotional perspective to understand how and when lower LMX social comparison leads to learning and undermining behaviors"
+        authors:
+          - "Pan, J."
+          - "Zhang, J."
+          - "Xu, H."
+          - "Li, K. J."
+          - "Lam, C. K."
+        publisher: "Journal of Organizational Behavior, 42(9), 1135-1143"
+        releaseDate: 2021
+        url: https://doi.org/10.1002/job.2549

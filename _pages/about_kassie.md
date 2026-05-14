@@ -1,5 +1,5 @@
-**Jie (Kassie) Li** — PhD student in Management at the Lazaridis School of Business and Economics, Wilfrid Laurier University.
+**Jie (Kassie) Li** — Assistant Professor of Organizational Behaviour / Human Resource Management at the Lazaridis School of Business and Economics, Wilfrid Laurier University. PhD in Management from the Hong Kong University of Science and Technology (HKUST); MPhil from Nanjing University.
 
-Her research focuses on **creativity and innovation in organizations** (antecedents of team creativity, idea evaluation and promotion) and on **team dynamics** (mechanisms of conflict escalation in team projects). She uses longitudinal designs and methodologies including cross-lagged panel models (CLPM), latent growth modeling (LGM), and latent change score (LCS) modeling.
+Her research focuses on **innovation, creativity, and entrepreneurship** (process perspective on managing the innovation process) and on **organizational deviance** (antecedents and outcomes of workplace gossip, social undermining, etc.). She works with a wide range of methods, including lab and online experiments, longitudinal surveys (CLPM, LGM, LCS), social relations modeling, and machine learning.
 
-[Faculty profile](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/jie-li/index.html) · [CV](/cv/)
+[Faculty profile](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/jie-li/index.html) · [CV](/cv/) · [Publications](/publications/)

@@ -12,7 +12,8 @@ profiles:
     content: about_kassie.md
     image_circular: false
     more_info: >
-      <p>Group lead</p>
+      <p>Principal Investigator</p>
+      <p>Assistant Professor</p>
       <p><a href="mailto:jieli@wlu.ca">jieli@wlu.ca</a></p>
       <p>Lazaridis Hall</p>
       <p>Wilfrid Laurier University</p>
